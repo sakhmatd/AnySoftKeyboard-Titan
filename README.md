@@ -1,3 +1,10 @@
+# About this Fork
+This is a fork of AnySoftKeyboard focusing on the Uniherz Titan family of devices.
+Currently implemented layouts:
+* English
+* Russian
+* Ukrainian
+
 # AnySoftKeyboard&nbsp;[![Latest release](https://img.shields.io/github/release/AnySoftKeyboard/AnySoftKeyboard.svg)](https://github.com/AnySoftKeyboard/AnySoftKeyboard/releases)
 
 Discussions can be found on&nbsp;[💬&nbsp;GitHub](https://github.com/AnySoftKeyboard/AnySoftKeyboard/discussions)<br/>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PhysicalTranslation QwertyTranslation="йцукенгшзхфывапролдячсмить">
+    <!-- Some characters are invoked by pressing the key two times, if you have a reduced Andorid keyboard without [];'./ keys -->
+    <!-- keycode_O - з -->
+    <!-- <SequenceMapping keySequence="43,43" targetChar="х"/> -->
+    <!-- keycode_p -  х, э -->
+    <SequenceMapping keySequence="44,44" targetChar="э"/>
+    <!-- keycode_k - , ж -->
+    <!-- <SequenceMapping keySequence="39,39" targetChar="ж"/> -->
+    <!-- keycode_l - д, ж -->
+    <SequenceMapping keySequence="40,40" targetChar="ж"/>
+    <!-- keycode_n - т, б -->
+    <SequenceMapping keySequence="42,42" targetChar="б"/>
+    <!-- keycode_m - ь, б ю ъ -->
+    <SequenceMapping keySequence="41,41" targetChar="б"/>
+    <SequenceMapping keySequence="41,41,41" targetChar="ю"/>
+    <SequenceMapping keySequence="41,41,41,41" targetChar="ъ"/>
+    <!-- keycode_i - ш, щ -->
+    <SequenceMapping keySequence="37,37" targetChar="щ"/>
+    <!-- keycode_u - г, ґ -->
+    <!-- <SequenceMapping keySequence="49,49" targetChar="ґ"/> -->
+    <!-- keycode_t - е, ё -->
+    <SequenceMapping keySequence="48,48" targetChar="ё"/>
+</PhysicalTranslation>

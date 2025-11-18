@@ -16,7 +16,6 @@
         layoutResId="@xml/ukrainian_qwerty"
         nameResId="@string/ukrainian_keyboard_name"
         physicalKeyboardMappingResId="@xml/ukrainian_physical" />
-
     <Keyboard
         defaultDictionaryLocale="uk"
         description="4 rows - Created with rlavriv"
@@ -27,4 +26,14 @@
         layoutResId="@xml/ukrainian_qwerty_4_rows"
         nameResId="@string/ukrainian_keyboard_name"
         physicalKeyboardMappingResId="@xml/ukrainian_physical" />
+    <Keyboard
+        defaultDictionaryLocale="uk"
+        description="Ukrainian for Uniherz Titan"
+        iconResId="@drawable/ic_status_ukrainian"
+        id="a382e135-7c9f-474d-8032-18c1b1908fc5"
+        index="3"
+        landscapeResId="@xml/ukrainian_qwerty"
+        layoutResId="@xml/ukrainian_qwerty_4_rows"
+        nameResId="@string/ukrainian_keyboard_name"
+        physicalKeyboardMappingResId="@xml/ukrainian_physical_titan" />
 </Keyboards>
